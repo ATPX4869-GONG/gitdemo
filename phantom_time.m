@@ -276,3 +276,4 @@ Vc_150 = Viscosity_150ms(length(angle_ex)+1:end)';
 % Vc_150(checksc==1)=[]; 
 % angle_ex(checkse==1)=[]; 
 % angle_flx(checksc==1)=[]; 
+%wdnmd dafen
