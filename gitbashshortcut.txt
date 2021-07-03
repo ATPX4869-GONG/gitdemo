@@ -1,0 +1,9 @@
+快速回到行头 Ctrl+A AHead
+快速回到行尾 Ctrl+E End
+前进 Ctrl+F
+退后 Ctrl+B
+中断 Ctrl+C
+搜索历史 Ctrl+R，再次 Ctrl+R 切换
+退出搜索 Ctrl+G
+删除一个单词 Ctrl+W
+删除一行 Ctrl+K (Kill) ，需要回到行头
